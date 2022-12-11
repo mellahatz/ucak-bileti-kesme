@@ -1,0 +1,11 @@
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\bin\Debug\UçakBiletiKesme.exe.config
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\bin\Debug\UçakBiletiKesme.exe
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\bin\Debug\UçakBiletiKesme.pdb
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\obj\Debug\UçakBiletiKesme.csproj.AssemblyReference.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\obj\Debug\UçakBiletiKesme.csproj.SuggestedBindingRedirects.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\obj\Debug\UçakBiletiKesme.Form1.resources
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\obj\Debug\UçakBiletiKesme.Properties.Resources.resources
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\obj\Debug\UçakBiletiKesme.csproj.GenerateResource.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\obj\Debug\UçakBiletiKesme.csproj.CoreCompileInputs.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\obj\Debug\UçakBiletiKesme.exe
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\UçakBiletiKesme\UçakBiletiKesme\obj\Debug\UçakBiletiKesme.pdb
